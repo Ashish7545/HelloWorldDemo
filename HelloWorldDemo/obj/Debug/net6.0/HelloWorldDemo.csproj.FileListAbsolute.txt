@@ -1,0 +1,15 @@
+D:\Promact\HelloWorldDemo\HelloWorldDemo\bin\Debug\net6.0\HelloWorldDemo.exe
+D:\Promact\HelloWorldDemo\HelloWorldDemo\bin\Debug\net6.0\HelloWorldDemo.deps.json
+D:\Promact\HelloWorldDemo\HelloWorldDemo\bin\Debug\net6.0\HelloWorldDemo.runtimeconfig.json
+D:\Promact\HelloWorldDemo\HelloWorldDemo\bin\Debug\net6.0\HelloWorldDemo.dll
+D:\Promact\HelloWorldDemo\HelloWorldDemo\bin\Debug\net6.0\HelloWorldDemo.pdb
+D:\Promact\HelloWorldDemo\HelloWorldDemo\obj\Debug\net6.0\HelloWorldDemo.csproj.AssemblyReference.cache
+D:\Promact\HelloWorldDemo\HelloWorldDemo\obj\Debug\net6.0\HelloWorldDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Promact\HelloWorldDemo\HelloWorldDemo\obj\Debug\net6.0\HelloWorldDemo.AssemblyInfoInputs.cache
+D:\Promact\HelloWorldDemo\HelloWorldDemo\obj\Debug\net6.0\HelloWorldDemo.AssemblyInfo.cs
+D:\Promact\HelloWorldDemo\HelloWorldDemo\obj\Debug\net6.0\HelloWorldDemo.csproj.CoreCompileInputs.cache
+D:\Promact\HelloWorldDemo\HelloWorldDemo\obj\Debug\net6.0\HelloWorldDemo.dll
+D:\Promact\HelloWorldDemo\HelloWorldDemo\obj\Debug\net6.0\refint\HelloWorldDemo.dll
+D:\Promact\HelloWorldDemo\HelloWorldDemo\obj\Debug\net6.0\HelloWorldDemo.pdb
+D:\Promact\HelloWorldDemo\HelloWorldDemo\obj\Debug\net6.0\HelloWorldDemo.genruntimeconfig.cache
+D:\Promact\HelloWorldDemo\HelloWorldDemo\obj\Debug\net6.0\ref\HelloWorldDemo.dll
